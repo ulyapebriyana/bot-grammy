@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
-    "outDir": "./",
-    "rootDir": "./",
+    "outDir": "/",
+    "rootDir": "/",
     "esModuleInterop": true,
     "skipLibCheck": true,
     "strict": true
