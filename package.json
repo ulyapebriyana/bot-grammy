@@ -2,11 +2,11 @@
   "name": "grammy-bot",
   "version": "1.0.0",
   "description": "",
-  "main": "dist/bot.js",
+  "main": "index.ts",
   "scripts": {
     "build": "tsc",
-    "start": "node dist/bot.js",
-    "dev": "nodemon bot.ts"
+    "start": "node dist/index.js",
+    "dev": "nodemon index.ts"
   },
   "keywords": [],
   "author": "",
