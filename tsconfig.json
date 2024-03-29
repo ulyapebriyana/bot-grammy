@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "outDir": "/",
+    "outDir": "/dist",
     "rootDir": "/",
     "esModuleInterop": true,
     "skipLibCheck": true,
